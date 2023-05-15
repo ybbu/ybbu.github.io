@@ -457,6 +457,12 @@ footer {
         color: $text;
         margin: 0;
     }
+
+    img {
+        border-radius: 50%;
+        width: 100;
+        height:100;
+    }
 }
 
 /*
@@ -998,8 +1004,4 @@ footer {
         }
     }
 
-}
-
-.portrait {
-    border-radius: 50%;
 }
